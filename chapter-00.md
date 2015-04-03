@@ -14,6 +14,19 @@ Facebook: Kongthap Thammachat
 
 ---
 
+### Assets
+
+- https://github.com/tutor4dev/ng-course-doc
+- https://github.com/tutor4dev/ng-course-code
+
+---
+
+### AJAX & DOM
+
+![](http://i.cubeupload.com/c5F2FE.jpg)
+
+---
+
 ### jQuery
 
 - DOM
@@ -21,7 +34,7 @@ Facebook: Kongthap Thammachat
 
 ---
 
-### Why AngularJS
+### AngularJS
 
 - DOM
 - AJAX
@@ -29,12 +42,6 @@ Facebook: Kongthap Thammachat
 - Modularized
 - Depedency Injection
 - Unit Testing
-
----
-
-### AJAX
-
-![](http://i.cubeupload.com/c5F2FE.jpg)
 
 ---
 
