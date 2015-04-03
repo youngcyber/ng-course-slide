@@ -1,4 +1,6 @@
-## Getting Started using AngularJS
+## Getting Started
+
+![](http://i.cubeupload.com/HNiXf4.jpg)
 
 ---
 
@@ -7,6 +9,53 @@
 Kongthap Thammachat (tutor4dev)
 
 Line ID: jeud
+
+Facebook: Kongthap Thammachat
+
+---
+
+### jQuery
+
+- DOM
+- AJAX
+
+---
+
+### Why AngularJS
+
+- DOM
+- AJAX
+- MVC
+- Modularized
+- Depedency Injection
+- Unit Testing
+
+---
+
+### AJAX
+
+![](http://i.cubeupload.com/c5F2FE.jpg)
+
+---
+
+## SETUP
+
+---
+
+### Sublime Package Control
+
+![](http://i.cubeupload.com/aZmNsp.png)
+
+Sublime -> View -> Show Console
+
+---
+
+### Sublime Packages
+
+- *HTML5*
+- *SublimeCodeIntel*
+- *AngularJS*
+- *AngularJS Snippets*
 
 ---
 
@@ -92,4 +141,4 @@ Line ID: jeud
 
 ---
 
-## END
+## END - Introduction
